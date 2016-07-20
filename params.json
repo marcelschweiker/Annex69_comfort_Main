@@ -1,0 +1,6 @@
+{
+  "name": "Comfort main annex69",
+  "tagline": "Main repository for Annex 69",
+  "body": "### Welcome to the main repository of comfort model related codes.\r\nThis repository follows two purposes:\r\n1 to give an overview about the repositories linked to the Annex 66 activity hosting code in different languages\r\n1 to provide sample data for the callibration of new codes\r\n\r\n\r\n### Related repositories\r\n- [R language](https://github.com/marcelschweiker/comfort_R)\r\n- other language",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
